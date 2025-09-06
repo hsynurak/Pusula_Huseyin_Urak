@@ -1,6 +1,6 @@
 # Pusula Talent Academy Data Science Intern Case Study
 
-Bu repository, ** Pusula Talent Academy Data Science Intern Case Study** çözümünü içermektedir. Proje, bir veri setinin temizlenmesi, ön işlenmesi ve analiz edilmesi ile beraber veriyi modellemeye hazır hale getirme adımlarını içerir. Veri seti, hasta bilgileri, tıbbi durumlar, tedaviler ve diğer ilgili verileri içermektedir.
+Bu repository, **Pusula Talent Academy Data Science Intern Case Study** çözümünü içermektedir. Proje, bir veri setinin temizlenmesi, ön işlenmesi ve analiz edilmesi ile beraber veriyi modellemeye hazır hale getirme adımlarını içerir. Veri seti, hasta bilgileri, tıbbi durumlar, tedaviler ve diğer ilgili verileri içermektedir.
 
 ---
 
